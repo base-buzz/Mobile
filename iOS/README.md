@@ -1,9 +1,3 @@
-This README is great for internal use but not ideal for App Store reviewers. It includes terminal details, dev environment paths, and testing instructions that could raise red flags during Apple’s manual review.
-
-Here’s how to adjust it for a reviewer-friendly version:
-
-⸻
-
 📱 BaseBuzz App – Reviewer Documentation
 
 Welcome to the BaseBuzz iOS app — a mobile wrapper for the social media experience at https://base.buzz.
@@ -50,8 +44,4 @@ External purchases ❌ Disabled No links to purchases or 3rd party wallets
 
 If you have any questions or need additional access for testing, please email the developer at:
 
-ios.devteam@base.buzz
-
-⸻
-
-Let me know if you’d like this as a REVIEWER.md file or included conditionally in the repo only during review mode.
+ios.developers@base.buzz
